@@ -4,15 +4,15 @@ Welcome to my cybersecurity portfolio. Here, I showcase practical defensive secu
 
 🛠️ **Core Technical Skills**
 
-**Security Operations & Analysis**: Incident Investigation, Threat Hunting, Log Parsing, IOC Verification.
+1. **Security Operations & Analysis**: Incident Investigation, Threat Hunting, Log Parsing, IOC Verification.
 
-**Database & Querying**: MariaDB / SQL (Advanced filtering, Wildcards, Boolean logic operators).  
+2. **Database & Querying**: MariaDB / SQL (Advanced filtering, Wildcards, Boolean logic operators).  
 
-**Systems & Scripting**: Linux Command Line, Bash, File Permissions, Cryptographic Hashing.
+3. **Systems & Scripting**: Linux Command Line, Bash, File Permissions, Cryptographic Hashing.
 
-**Cryptography & Tools:** OpenSSL (aes-256-cbc), Caesar Cipher Cryptanalysis (tr), SHA-256 Integrity Verification. 
+4. **Cryptography & Tools:** OpenSSL (aes-256-cbc), Caesar Cipher Cryptanalysis (tr), SHA-256 Integrity Verification. 
 
-**Gen AI & Tooling**: AI-assisted workflow automation, rapid prototyping, and web interface generation.   
+5. **Gen AI & Tooling**: AI-assisted workflow automation, rapid prototyping, and web interface generation.   
 
 **📁 Featured Projects**
 
