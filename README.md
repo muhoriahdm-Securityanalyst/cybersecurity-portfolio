@@ -4,7 +4,7 @@ Welcome to my cybersecurity portfolio. Here, I showcase practical defensive secu
 
 🛠️ **Core Technical Skills**
 
-**Security Operations & Analysi**s: Incident Investigation, Threat Hunting, Log Parsing, IOC Verification.
+**Security Operations & Analysis**: Incident Investigation, Threat Hunting, Log Parsing, IOC Verification.
 
 **Database & Querying**: MariaDB / SQL (Advanced filtering, Wildcards, Boolean logic operators).  
 
