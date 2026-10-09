@@ -3,21 +3,32 @@ Derrick Mutie Muhoria | Junior SOC Analyst & Security Automation Practitioner
 Welcome to my cybersecurity portfolio. Here, I showcase practical defensive security operations, Linux administration, log analysis, cryptographic workflows, and AI-driven automation skills developed through the Google Cybersecurity Certificate and hands-on lab environments.
 
 🛠️ **Core Technical Skills**
+
 Security Operations & Analysis: Incident Investigation, Threat Hunting, Log Parsing, IOC Verification.
-Database & Querying: MariaDB / SQL (Advanced filtering, Wildcards, Boolean logic operators).   
+
+Database & Querying: MariaDB / SQL (Advanced filtering, Wildcards, Boolean logic operators).  
+
 Systems & Scripting: Linux Command Line, Bash, File Permissions, Cryptographic Hashing.
+
 Cryptography & Tools: OpenSSL (aes-256-cbc), Caesar Cipher Cryptanalysis (tr), SHA-256 Integrity Verification. 
+
 Gen AI & Tooling: AI-assisted workflow automation, rapid prototyping, and web interface generation.   
 
 **📁 Featured Projects**
+
 **Project 1: SOC Log Investigation & Threat Hunting via Advanced SQL Queries**
+
 Objective: Investigate potential security incidents, track unauthorized access attempts, and isolate vulnerable employee machines across departmental networks using SQL.
+
 **Actions Performed:**
-Wrote MariaDB queries to filter after-hours failed login attempts (login_time > '18:00' AND success = FALSE) to identify suspicious post-business-hour activity.  
+Wrote MariaDB queries to filter after-hours failed login attempts (login_time > '18:00' AND success = FALSE) to identify suspicious post-business-hour activity. 
+
 Tracked multi-day security events using date-range filtering and logical operators (OR). 
 Handled geographic anomalies by filtering out authorized regions using pattern matching (NOT country LIKE 'MEX%').  
+
 Targeted specific enterprise assets for security patches by querying organizational databases by department and office locations (e.g., Marketing in the East building, or excluding IT staff).
-Key Skills Demonstrated: SQL data extraction, incident log triage, indicator filtering.Project 2: File Integrity Monitoring & Cryptographic Hashing
+
+**Key Skills Demonstrated:** SQL data extraction, incident log triage, indicator filtering.Project 2: File Integrity Monitoring & Cryptographic Hashing
 Objective: Implement cryptographic hashing controls to protect organizational systems against file tampering and malicious alterations. 
 **Actions Performed**:
 Generated unique SHA-256 cryptographic digests (sha256sum) for system binaries and text assets.  
